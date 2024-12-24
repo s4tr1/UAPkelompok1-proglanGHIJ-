@@ -44,6 +44,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 ---
 
 ## Struktur Proyek
+```
 ├── src
 │   ├── AdminDashboard.java
 │   ├── BuyerDashboard.java
@@ -55,9 +56,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 │   └── UserTable.java
 ├── users.txt (Berisi data user yang terdaftar)
 └── README.md (Dokumentasi proyek ini)
-
-
----
+```
 
 ## Teknologi yang Digunakan
 - *Java Swing* untuk antarmuka grafis.

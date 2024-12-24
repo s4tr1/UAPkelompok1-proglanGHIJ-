@@ -44,8 +44,6 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 ---
 
 ## Struktur Proyek
-
-.
 ├── src
 │   ├── AdminDashboard.java
 │   ├── BuyerDashboard.java

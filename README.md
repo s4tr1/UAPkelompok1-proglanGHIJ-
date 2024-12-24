@@ -58,7 +58,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 └── README.md (Dokumentasi proyek ini)
 ```
 
-## Teknologi yang Digunakan
+## <img src="./icons/Java-Dark.svg" width="48"> Teknologi yang Digunakan
 - *Java Swing* untuk antarmuka grafis.
 - *JTable* untuk menampilkan data ikan.
 - *JFileChooser* untuk memilih gambar ikan.

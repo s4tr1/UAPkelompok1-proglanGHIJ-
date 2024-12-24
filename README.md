@@ -86,7 +86,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 
 ---
 
-## Kontributor
+## 👥 Kontributor
 - *Nawaf SUlaiman Al Hunaiti, Bintang Mars Satria Tuhu*
 
 ---

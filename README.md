@@ -43,7 +43,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 
 ---
 
-## Struktur Proyek
+##📁 Struktur Proyek
 ```
 ├── src
 │   ├── AdminDashboard.java
@@ -58,7 +58,8 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 └── README.md (Dokumentasi proyek ini)
 ```
 
-## Teknologi yang Digunakan
+## ![gambar](https://github.com/user-attachments/assets/a59eaed6-698f-4253-ad1f-488006a7cf8f)
+Teknologi yang Digunakan
 - *Java Swing* untuk antarmuka grafis.
 - *JTable* untuk menampilkan data ikan.
 - *JFileChooser* untuk memilih gambar ikan.

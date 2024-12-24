@@ -12,7 +12,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 - *Edit Ikan:* Admin dapat mengedit data ikan yang ada.
 - *Logout:* Admin dapat keluar dari sistem.
 
-### Buyer
+### 🧑‍💼 Buyer
 - *Tambah Saldo:* Buyer dapat menambahkan saldo untuk membeli ikan.
 - *Beli Ikan:* Buyer dapat membeli ikan yang tersedia jika saldo mencukupi.
 - *Lihat Koleksi:* Buyer dapat melihat daftar ikan yang telah dibeli.

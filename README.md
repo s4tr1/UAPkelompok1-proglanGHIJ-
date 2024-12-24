@@ -5,7 +5,7 @@ Sistem manajemen ikan cupang ini memungkinkan admin untuk mengelola data ikan, s
 
 ---
 
-## Fitur Utama
+##⚙️ Fitur Utama
 ### Admin
 - *Tambah Ikan:* Admin dapat menambahkan data ikan baru beserta gambar.
 - *Hapus Ikan:* Admin dapat menghapus data ikan yang tidak lagi tersedia.

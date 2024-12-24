@@ -1,0 +1,10 @@
+user1,Password123@
+ambatukam,Password123!
+datauser1,Password123!
+databaru3,Inipassword1234!
+Data0,Password123!
+Nawaf,Nawafwalker1!
+dataadmin,Nawafwalker1!,admin
+databuyer,Buyerwalker1!,buyer
+Bintang,123,admin
+Bintangbuyer,123,buyer
